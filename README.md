@@ -7,5 +7,5 @@ The result fulfills all requirements from the exercise. However optional advance
 
 ## Next steps
 - Check if the code is clean - clean it up, if needed
-- Replace `<div>`with semantic tags
+- Replace `<div>` with semantic tags
 - Integrate advanced CSS styling
